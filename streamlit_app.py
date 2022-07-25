@@ -38,4 +38,5 @@ streamlit.dataframe(fruityvice_normalized)
 
 import snowflake.connector 
 cffi==1.15.0
+
                       
